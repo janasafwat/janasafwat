@@ -1,13 +1,13 @@
-# Hey! I'm Jana Safwat. 👋
+# Hey! I'm Jana Safwat 👋
 
-Welcome to my GitHub profile! 
+Welcome to my GitHub profile!  
 I'm a **Computer Science and Artificial Intelligence Student** dedicated to mastering algorithms, exploring AI models, and solving complex logical challenges.
 
 ## 🚀 About Me
-* 🎓 Studying **Computer Science & AI**, focusing on the intersection of math and technology.
-* 🧠 Passionate about **Problem Solving** and implementing efficient logic.
-* 🤖 Deeply interested in **Machine Learning** and how data drives intelligence.
-* 💻 Building foundations in low-level programming with **C/C++** and data-driven projects with **Python**.
+- 🎓 Studying **Computer Science & AI**, focusing on the intersection of math and technology.
+- 🧠 Passionate about **Problem Solving** and implementing efficient logic.
+- 🤖 Deeply interested in **Machine Learning** and how data drives intelligence.
+- 💻 Building foundations in low-level programming with **C/C++** and data-driven projects with **Python**.
 
 ## 🛠 Things I code with
 <p align="left">
@@ -20,7 +20,9 @@ I'm a **Computer Science and Artificial Intelligence Student** dedicated to mast
 </p>
 
 ## 📊 GitHub Stats
-[![Jana's Stats](https://github-readme-stats.vercel.app/api?username=janasafwat&show_icons=true&theme=radical&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+
+![Jana's GitHub stats](https://github-readme-stats.vercel.app/api?username=janasafwat&show_icons=true&theme=radical&cache_seconds=1800)
 
 ---
-**`Turning Coffee into Code & Intelligence ☕⚡`**
+
+### 🚀 Learning, Building, and Growing Every Day
