@@ -20,7 +20,7 @@ I'm a **Computer Science and Artificial Intelligence Student** dedicated to mast
 </p>
 
 ## 📊 GitHub Stats
-![Jana's Stats](https://github-readme-stats.vercel.app/api?username=janasafwat&show_icons=true&theme=radical)
+![Jana's Stats](https://github-readme-stats.vercel.app/api?username=janasafwat&show_icons=true&theme=radical&count_private=true)
 
 ---
 **`Turning Coffee into Code & Intelligence ☕⚡`**
